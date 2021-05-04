@@ -20,7 +20,7 @@ public class DemoArray {
     public static void main(String[] args) {
         int[] arrayA = new int[] {1,2,3};
         System.out.println(arrayA[1]);
-
+        System.out.println(arrayA[2]);
 //        double[] arrayB = new double[10];
 //
 //        String[] arrayC = new String[5];
