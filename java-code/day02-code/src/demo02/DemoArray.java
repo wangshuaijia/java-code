@@ -18,9 +18,10 @@ a = new int[4];
 
 public class DemoArray {
     public static void main(String[] args) {
-        int[] arrayA = new int[] {1,2,3};
+        int[] arrayA = new int[] {1,2,3,4};
         System.out.println(arrayA[1]);
         System.out.println(arrayA[2]);
+        System.out.println(arrayA[3]);
 //        double[] arrayB = new double[10];
 //
 //        String[] arrayC = new String[5];
