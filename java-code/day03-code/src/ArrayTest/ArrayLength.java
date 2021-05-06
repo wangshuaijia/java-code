@@ -1,4 +1,4 @@
-package demo01;
+package ArrayTest;
 
 //获取数组长度: Array.length
 //注意:数组一旦创建后, 程序运行期间, 长度不可变

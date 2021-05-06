@@ -1,4 +1,4 @@
-package demo01;
+package ArrayTest;
 // 所有的引用类型变量, 都可以赋值为null, 代表什么都没有
 
 public class ArrayIndexOutOfBounds {

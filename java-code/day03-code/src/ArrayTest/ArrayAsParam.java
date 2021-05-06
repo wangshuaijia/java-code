@@ -1,4 +1,4 @@
-package demo01;
+package ArrayTest;
 
 public class ArrayAsParam {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package demo01;
+package ArrayTest;
 
 // 数组的遍历
 //数组长度  array.length
