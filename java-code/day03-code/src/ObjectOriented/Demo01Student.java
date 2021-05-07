@@ -16,7 +16,7 @@ Student stu = new Student();
 注意事项：
 如果成员变量没有赋值， 将会有一个默认值， 规则和数组一样
  */
-public class UseStudent {
+public class Demo01Student {
     public static void main(String[] args) {
         Student stu = new Student();
         stu.eat();

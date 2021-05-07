@@ -17,7 +17,7 @@ public class PrintArray {
         System.out.println(array[array.length-1] + "]");
         System.out.println("===================================");
         //使用面向对象
-        //找一个JDK给我提供好的Arrays类
+        //找一个JDK提供好的Arrays类
         //其中有一个toString方法, 直接就能把数组变成想要的格式的字符串
         System.out.println(Arrays.toString(array));
     }
