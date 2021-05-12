@@ -1,6 +1,6 @@
 package DemoExtends;
 
-public class Teacher extends Employee {
+public class Teacher extends DemoExtends.Employee {
 
     int num = 20;
 

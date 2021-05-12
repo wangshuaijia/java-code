@@ -1,5 +1,4 @@
 package DemoExtends;
-
 /*
 方法覆盖重写的注意事项：
 1、必须保证父类和子类的方法名相同，参数列表也相同
@@ -10,7 +9,7 @@ java.lang.Object类是所有类的公共最高子类（祖宗类） java.lang.St
 3、子类方法的权限修饰符必须大于等于父类方法的权限修饰符 public -> protected -> (default) -> private
 default 不是关键字，而是什么都不写， 留空
  */
-public class Zi extends Fu {
+class Zi extends Fu {
     // 该关键字用来确保本方法是重写的方法，如果不是重写的方法， 会报错
     @Override
     public void method() {

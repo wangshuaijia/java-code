@@ -1,2 +1,4 @@
-package DemoStatic;public class demo01StaticField {
+package DemoStatic;
+
+class demo01StaticField {
 }
